@@ -1,1 +1,1 @@
-# ig-git-intro
+# ig-github-intro
